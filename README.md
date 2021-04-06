@@ -1,4 +1,4 @@
-# Matrix configs
+## matrix-synapse self-hosted configuration w/ and w/o federation
 
 ## Matrix
 
