@@ -3,8 +3,8 @@
 ## Config
 
 Files:
-- [matrix-w-federation.conf](https://github.com/shatfel/matrix-template/etc/nginx/matrix-w-federation.conf)
-- [matrix-wo-federation.conf](https://github.com/shatfel/matrix-template/etc/nginx/matrix-wo-federation.conf)
+- [matrix-w-federation.conf](/etc/nginx/matrix-w-federation.conf)
+- [matrix-wo-federation.conf](/etc/nginx/matrix-wo-federation.conf)
 
 ## Variables in configs
 
