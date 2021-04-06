@@ -4,15 +4,15 @@
 
 Files:
 
-- [homeserver-wo-federation](https://github.com/shatfel/matrix-template/etc/matrix-synapse/homeserver-wo-federation)
-- [homeserver-w-federation](https://github.com/shatfel/matrix-template/etc/matrix-synapse/homeserver-w-federation)
+- [homeserver-wo-federation](/etc/matrix-synapse/homeserver-wo-federation.yaml)
+- [homeserver-w-federation](/etc/matrix-synapse/homeserver-w-federation.yaml)
 
 ## Variables in configs
 
 | Parameter | Value | Description |
 |:----------|:-----:|:------------|
 | --regSharedSecret- | hash | generated |
-| --email- | email | admin`s email |
+| --email- | email | admins email |
 | --enableReg- | true/false | allow remote registration |
 |--publicKey-|/opt/matrix/public.crt|Public cert|
 |--privateKey-|/opt/matrix/private.key|Private key|
