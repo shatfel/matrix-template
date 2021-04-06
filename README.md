@@ -7,5 +7,3 @@
 ## nginx
 
 [nginx configuration](/etc/nginx/README.md)
-
-> bot test
